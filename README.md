@@ -143,6 +143,8 @@ jupyter notebook
 * Improved accuracy using transfer learning.
 
 ---
+## Project Deployment:
+https://brain-tumor-detection-using-cnn-gzx57fwzm3bffvkru7ihqh.streamlit.app/
 
 ## 👩‍💻 Author
 
